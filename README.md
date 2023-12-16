@@ -1,7 +1,7 @@
 # Magic Leap and Computer Vision
 
 ## Overview
-This project showcases the combination of functionality from OpenCV and the Magic Leap 2 for Computer Robotics 2023. A more in depth description of the project can be found at .
+This project showcases the combination of functionality from OpenCV and the Magic Leap 2 for Computer Robotics 2023. A more in depth description of the project can be found at https://final-project-fe4ad5.webflow.io/.
 
 # Files of Interest for Prof and CAs
 The code that we wrote can be found in Assets/Myscripts/
